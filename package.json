@@ -16,7 +16,7 @@
 		"editor"
 	],
 	"author": "Natumanya Guy Muriro <muriro.com> (https://www.muriro.com/)",
-	"homepage": "",
+	"homepage": "https://github.com/NatumanyaGuy/svelte-quill.git",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
