@@ -5,7 +5,7 @@
 	"contributors": [
 		"Guy Natumanya"
 	],
-	"description": "Reusable and customizable social media buttons for your web applications",
+	"description": "Unofficial wrapper for Quill.js designed specifically for seamless integration with SvelteKit projects",
 	"keywords": [
 		"svelte",
 		"sveltekit",
