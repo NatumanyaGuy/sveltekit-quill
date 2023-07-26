@@ -1,5 +1,5 @@
 {
-	"name": "svelte-quill",
+	"name": "sveltekit-quill",
 	"version": "0.0.1",
 	"license": "MIT",
 	"contributors": [
@@ -10,13 +10,13 @@
 		"svelte",
 		"sveltekit",
 		"quill",
-		"svelte-quill",
+		"sveltekit-quill",
 		"WYSIWYG",
 		"rich text editor",
 		"editor"
 	],
 	"author": "Natumanya Guy Muriro <muriro.com> (https://www.muriro.com/)",
-	"homepage": "https://github.com/NatumanyaGuy/svelte-quill.git",
+	"homepage": "https://github.com/NatumanyaGuy/sveltekit-quill.git",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
@@ -62,6 +62,6 @@
 	"types": "./dist/index.d.ts",
 	"type": "module",
 	"dependencies": {
-		"svelte-quill": "^1.2.0"
+		"sveltekit-quill": "^1.2.0"
 	}
 }

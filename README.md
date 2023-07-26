@@ -1,6 +1,6 @@
-# svelte-quill
+# sveltekit-quill
 
-`svelte-quill` is an unofficial wrapper for Quill.js, designed specifically for seamless integration with SvelteKit projects. This library allows you to easily add rich text editing capabilities to your SvelteKit applications with the flexibility to customize the editor's appearance and behavior to suit your needs.
+`sveltekit-quill` is an unofficial wrapper for Quill.js, designed specifically for seamless integration with SvelteKit projects. This library allows you to easily add rich text editing capabilities to your SvelteKit applications with the flexibility to customize the editor's appearance and behavior to suit your needs.
 
 ### Features
 
@@ -9,10 +9,10 @@
 
 ### Installation
 
-You can install the Svelte-Quill component library using npm:
+You can install the Sveltekit-Quill component library using npm:
 
 ```
-npm install svelte-quill
+npm install sveltekit-quill
 ```
 
 ### Usage
@@ -36,7 +36,7 @@ npm install svelte-quill
 The following are props you can pass to the Quill component
 | Prop | Description |
 | --- | ----------- |
-| Loading Slot | Set your own loading indicator for the editor as it loads. (svelte-quill uses {#await} for rendering ) |
+| Loading Slot | Set your own loading indicator for the editor as it loads. (sveltekit-quill uses {#await} for rendering ) |
 | theme | Theme of the editor (`snow` or `bubble`) |
 | class| pass css classes to editor |
 
